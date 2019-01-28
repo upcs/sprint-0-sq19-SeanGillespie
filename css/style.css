@@ -7,6 +7,6 @@ body {/*sets background for whole sheet*/
   }
   h1 { /*header*/
     color: maroon;
-    font-family: Cambria;
+    font-family: Cambria;/*font*/
     border: 1px solid cyan;
   }
