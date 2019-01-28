@@ -1,0 +1,12 @@
+/*style.css*/
+/*Style Sheet for index.html, sprint 0*/
+/*Author: Sean Gillespie*/
+
+body {/*sets background for whole sheet*/
+    background-color: coral;
+  }
+  h1 { /*header*/
+    color: maroon;
+    font-family: verdana;
+    border: 1px solid cyan;
+  }

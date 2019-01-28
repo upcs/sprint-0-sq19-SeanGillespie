@@ -1,0 +1,22 @@
+{
+  "name": "sprint-0-sq19-seangillespie",
+  "version": "1.0.0",
+  "description": "sprint-0-sq19-SeanGillespie created by GitHub Classrooms",
+  "main": "server.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/upcs/sprint-0-sq19-SeanGillespie.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/upcs/sprint-0-sq19-SeanGillespie/issues"
+  },
+  "homepage": "https://github.com/upcs/sprint-0-sq19-SeanGillespie#readme",
+  "dependencies": {
+    "jest": "^24.0.0"
+  }
+}
