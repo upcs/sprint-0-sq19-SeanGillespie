@@ -6,5 +6,5 @@ function setup() {
     document.getElementById("demo").appendChild(res);
     var t = document.createTextNode("" + a);
     res.appendChild(t);                                          
-    document.body.appendChild(res);
+    document.body.appendChild(res);//adding comment
 }
