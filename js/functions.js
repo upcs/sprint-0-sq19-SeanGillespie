@@ -1,4 +1,4 @@
 function add(a , b) {
     return Number(a) + Number(b);   // The function returns the sum of p1 and p2
 }
-module.exports = add;
+module.exports = add;//added a comment
